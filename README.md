@@ -1,5 +1,7 @@
 # Testando uma aplicação React com o serviço em cloud da Amazon Web Services.
 
+endpoint https://master.d2ani5v75jx42e.amplifyapp.com/
+
 -----------------------
 
 # Getting Started with Create React App
