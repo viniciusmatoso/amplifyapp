@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          PUCPR APPDEV.
+          Aplicação React Test - Marcus Vinícius.
         </p>
         <a
           className="App-link"

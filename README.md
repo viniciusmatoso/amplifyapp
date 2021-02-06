@@ -1,4 +1,4 @@
-# Testando uma aplicação React com o serviço em cloud da Amazon Web Services.
+# Testando uma aplicação React com o serviço em cloud Amplify da Amazon Web Services.
 
 endpoint https://master.d2ani5v75jx42e.amplifyapp.com/
 
